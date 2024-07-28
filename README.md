@@ -13,6 +13,7 @@ The dataset contains various details about each order placed in the e-commerce s
 - [Dataset](https://github.com/suf1an-ss/E-commerce-Data-Analysis-/blob/main/E-commerce%20Dataset.csv): The raw dataset used for analysis.
 - [SQL](https://github.com/suf1an-ss/E-commerce-Data-Analysis-/blob/main/E-commerce%20query.sql): SQL script to create the table and import data into PostgreSQL.
 - [README](README.md): Documentation for the project.
+- [Icons](https://github.com/suf1an-ss/E-commerce-Data-Analysis-/blob/main/Icons.zip): Icons used in Tableau dasboard
 
 ## Data Source
 The dataset includes information on orders, customers, products, and transactions:
