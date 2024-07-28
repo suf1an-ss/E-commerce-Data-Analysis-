@@ -9,7 +9,7 @@ The dataset contains various details about each order placed in the e-commerce s
 - Which payment methods are most popular?
 
 ## Files in the Repository
-- [Tableau](E-Commerce DASBOARD.twb): Tableau workbook containing the visualizations.
+- [Tableau](https://github.com/suf1an-ss/E-commerce-Data-Analysis-/blob/main/E-Commerce%20DASBOARD.twb): Tableau workbook containing the visualizations.
 - [Dataset](E-commerce Dataset.csv): The raw dataset used for analysis.
 - [SQL](E-commerce query.sql): SQL script to create the table and import data into PostgreSQL.
 - [README](README.md): Documentation for the project.
