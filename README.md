@@ -16,20 +16,8 @@ The dataset contains various details about each order placed in the e-commerce s
 
 ## Data Source
 The dataset includes information on orders, customers, products, and transactions:
-- **Order_Date**: Date of the order
-- **Customer_Id**: Unique customer identifier
-- **Gender**: Gender of the customer
-- **Device_Type**: Device used to place the order
-- **Customer_Login_type**: Login type of the customer
-- **Product_Category**: Category of the product
-- **Product**: Specific product
-- **Sales**: Sales amount
-- **Quantity**: Quantity of product sold
-- **Discount**: Discount applied
-- **Profit**: Profit from the sale
-- **Shipping_Cost**: Shipping cost
-- **Order_Priority**: Priority of the order
-- **Payment_method**: Method of payment
+![image](https://github.com/user-attachments/assets/1c051426-db65-4fa1-b1f9-b063c11c2a75)
+
 
 ## Setting Up the Project
 
