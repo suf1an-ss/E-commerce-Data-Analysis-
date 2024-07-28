@@ -9,10 +9,10 @@ The dataset contains various details about each order placed in the e-commerce s
 - Which payment methods are most popular?
 
 ## Files in the Repository
-- `C:\Users\USER\Desktop\E-commerce project\E-Commerce DASBOARD.twb`: Tableau workbook containing the visualizations.
-- `C:\Program Files\PostgreSQL\16\data\Data copy\E-commerce Dataset.csv`: The raw dataset used for analysis.
-- `C:\Users\USER\Desktop\E-commerce project\E-commerce query.sql`: SQL script to create the table and import data into PostgreSQL.
-- `README.md`: Documentation for the project.
+- [Tableau](E-Commerce DASBOARD.twb): Tableau workbook containing the visualizations.
+- [Dataset](E-commerce Dataset.csv): The raw dataset used for analysis.
+- [SQL](E-commerce query.sql): SQL script to create the table and import data into PostgreSQL.
+- [README](README.md): Documentation for the project.
 
 ## Data Source
 The dataset includes information on orders, customers, products, and transactions:
