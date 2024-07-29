@@ -8,6 +8,14 @@ The dataset contains various details about each order placed in the e-commerce s
 - What are the characteristics of our customers?
 - Which payment methods are most popular?
 
+## Dashboard Screenshot
+![image](https://github.com/user-attachments/assets/74fb2f72-6060-4a9f-aa8e-90331dbdd141)
+![image](https://github.com/user-attachments/assets/01977869-4a95-4a60-9b47-917bbfe25ca2)
+
+
+
+
+
 ## Files in the Repository
 - [Tableau](https://github.com/suf1an-ss/E-commerce-Data-Analysis-/blob/main/E-Commerce%20DASBOARD.twb): Tableau workbook containing the visualizations.
 - [Dataset](https://github.com/suf1an-ss/E-commerce-Data-Analysis-/blob/main/E-commerce%20Dataset.csv): The raw dataset used for analysis.
